@@ -1,0 +1,43 @@
+html{
+    display: flex;
+    justify-content: center;
+    background-color: #1f1f1f;
+    background-color: #1f1f1f;
+}
+
+body {
+    width: 400px;
+}
+
+h1 {
+    color: azure;
+    display: flex;
+    justify-content: center;
+    font-family: 'Exo 2', sans-serif;
+    text-shadow: rgb(220, 20, 60) 0px 0px 10px;
+
+}
+
+.img-div {
+    display: flex;
+    justify-content: center;
+}
+
+img {
+    height: 300px;
+    width: 300px;
+    border-radius: 150px;
+}
+
+h3{
+    /* color: azure; */
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-family: 'Josefin Sans', sans-serif;
+    background: linear-gradient(217deg, rgba(255,0,0,.8), rgba(255,0,0,0) 70.71%),
+            linear-gradient(127deg, rgba(0,255,0,.8), rgba(0,255,0,0) 70.71%),
+            linear-gradient(336deg, rgba(0,0,255,.8), rgba(0,0,255,0) 70.71%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
